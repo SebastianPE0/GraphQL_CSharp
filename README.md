@@ -40,10 +40,8 @@ This is a simple GraphQL "Hello World" project where you can set up a local Grap
    ### 1. Clone the repository
    
   ```
-      git clone https://github.com/SebastianPE0/JavaScript_GraphQL.git
-      
+      git clone https://github.com/SebastianPE0/JavaScript_GraphQL.git 
   ```
-      
   ```
       cd graphql-hello-world
   ```
@@ -53,19 +51,19 @@ This is a simple GraphQL "Hello World" project where you can set up a local Grap
       
   ```
       npm install
- ```
- ```
+  ```
+  ```
       npm install apollo-server graphql
-```
- ```
+  ```
+  ```
       npm install graphql-request
- ```
+  ```
    ### 3. Run the GraphQL Server
    Once the dependencies are installed, you can start the GraphQL server by running:
       
-      ```
+  ```
       node graphqlServer.js
-      ```
+  ```
    The server will be running at http://localhost:4000/.
       
    ### 4. Open the HTML Page
