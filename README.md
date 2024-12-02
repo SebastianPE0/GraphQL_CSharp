@@ -41,6 +41,10 @@ This is a simple GraphQL "Hello World" project where you can set up a local Grap
    
       ```
       git clone https://github.com/SebastianPE0/JavaScript_GraphQL.git
+      
+      ```
+      
+      ```
       cd graphql-hello-world
       ```
       
