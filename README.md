@@ -31,7 +31,7 @@ This project doesn't solve a particular real-world problem but provides a simple
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
 - [How to Use the Project](#how-to-use-the-project)
 - [Credits](#credits)
-- [License](#license)
+- [Addiotional Information](#additional-information)
 
 ## How to Install and Run the Project
 
@@ -66,12 +66,28 @@ The server will be running at http://localhost:4000/.
 ### 4. Open the HTML Page
 Open the index.html file in your browser. It will make a GraphQL query to the local server and display the "Hello, World!" message on the page.
 
+----
+
 ## How to Use the Project
 Once you have the server running, you can access the simple webpage by opening index.html in any modern web browser. The page will display the message "Hello, World!" retrieved from the GraphQL server.
 
 You can modify the query in the HTML file to ask for different data from the GraphQL server if desired.
 
+---
+
 ## Credits
 Author: Antony Sebastián Pérez Gaona
 GraphQL Documentation: [GraphQL Official Docs](https://graphql.org/)
 Apollo Server: [Apollo Server Documentation](https://www.apollographql.com/docs/apollo-server)
+
+---
+
+## Additional Information
+Below you can see screenshots of the execution, both on the website and in the Apollo´s interface
+
+- WebSite
+  ![image](https://github.com/user-attachments/assets/20ee7647-3185-441d-a926-78ca11e82210)
+
+- Sandbox of Apollo server
+  ![image](https://github.com/user-attachments/assets/aa666368-c650-4466-acd3-a55924a1d671)
+
